@@ -27,12 +27,12 @@ The objective of this task is to control **five servo motors** simultaneously us
 ##  Screenshots
 
 ![Simulation Screenshot](https://github.com/Tloww/5_servo_Control/blob/main/Screenshot%202025-10-23%20215716.png)
-![Simulation Screenshot](https://i.imgur.com/abcd123.png)
+![Simulation Screenshot](https://github.com/Tloww/5_servo_Control/blob/main/Screenshot%202025-10-23%20215746.png)
 
 ---
 
 ##  Project Link
-[ Open in Tinkercad](https://www.tinkercad.com/)
+[ Open in Tinkercad](https://www.tinkercad.com/things/kZ9ukyGP3CN-servo?sharecode=v_gLtjpHgUtW0ANrkUJy0YCjGVRcP5aHS_Iz-gcTOSg)
 
 
 
